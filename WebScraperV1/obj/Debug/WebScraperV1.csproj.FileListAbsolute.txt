@@ -1,0 +1,11 @@
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\bin\Debug\WebScraperV1.exe
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\bin\Debug\WebScraperV1.pdb
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.csprojResolveAssemblyReference.cache
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.Form1.resources
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.Properties.Resources.resources
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.csproj.GenerateResource.Cache
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.exe
+C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.pdb
