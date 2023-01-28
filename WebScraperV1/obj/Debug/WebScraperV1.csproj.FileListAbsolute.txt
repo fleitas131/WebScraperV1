@@ -9,3 +9,18 @@ C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebSc
 C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.csproj.GenerateResource.Cache
 C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.exe
 C:\Users\arturo.fleitas\Documents\Visual Studio 2015\Projects\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.pdb
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\bin\Debug\WebScraperV1.exe.config
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\bin\Debug\WebScraperV1.exe
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\bin\Debug\WebScraperV1.pdb
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.Form1.resources
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.Properties.Resources.resources
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.csproj.CopyComplete
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.exe
+C:\Users\artur\Desktop\GitHub\WebScraperV1\WebScraperV1\obj\Debug\WebScraperV1.pdb
